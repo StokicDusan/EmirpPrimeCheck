@@ -1,4 +1,4 @@
-# Checks if the entered integer is an Emirp number or not.
+# Checks if the integer is an Emirp number or not.
 
 # An emirp is a prime number that results in a
 # different prime when its decimal digits are reversed.
@@ -33,8 +33,7 @@ def is_emirp(n) -> bool:
         return False
     if not is_palindromic_number(n):
         return is_prime(int(str(n)[::-1]))
-    else:
-        return False
+    return False
 
 
 def emirp_check(x) -> None:
