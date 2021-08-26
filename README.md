@@ -1,3 +1,11 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Commit-activity][commit-activity-shield]][commit-activity-url]
+[![Issues][issues-shield]][issues-url]
+[![Repo-size][repo-size-shield]][repo-size-url]
+[![License][license-shield]][license-url]  
+[![Forks][forks-shield]][forks-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Emirp Prime Check
 
 Checks if the entered integer is an Emirp prime number or not.
@@ -31,3 +39,18 @@ Any positive integer
 :warning: *Note:* Other input will result in an error
 
 Invoking the script with no or less arguments will run testmod().
+
+[contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/EmirpPrimeCheck
+[contributors-url]: https://github.com/StokicDusan/EmirpPrimeCheck/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/StokicDusan/EmirpPrimeCheck?style=social
+[forks-url]: https://github.com/StokicDusan/EmirpPrimeCheck/network/members
+[issues-shield]: https://img.shields.io/github/issues/StokicDusan/EmirpPrimeCheck
+[issues-url]: https://github.com/StokicDusan/EmirpPrimeCheck/issues
+[commit-activity-shield]: https://img.shields.io/github/last-commit/StokicDusan/EmirpPrimeCheck
+[commit-activity-url]: https://github.com/StokicDusan/EmirpPrimeCheck/graphs/commit-activity
+[license-url]: https://github.com/StokicDusan/EmirpPrimeCheck/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/StokicDusan/EmirpPrimeCheck
+[repo-size-shield]: https://img.shields.io/github/repo-size/StokicDusan/EmirpPrimeCheck
+[repo-size-url]: https://img.shields.io/github/repo-size/StokicDusan/EmirpPrimeCheck
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=plastice&logo=linkedin&logoColor=white
+[linkedin-url]: https://linkedin.com/in/stokicdusan
