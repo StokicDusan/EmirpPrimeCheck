@@ -6,9 +6,9 @@
 [![Forks][forks-shield]][forks-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Emirp Prime Check
+# Welcome to EmirpPrimeCheck !!!
 
-Checks if the entered integer is an Emirp prime number or not.
+Script checks if the entered integer is an Emirp prime number or not.
 An emirp is a prime number that results in a different prime when its decimal digits are reversed. 
 
 ## What does the script do?
