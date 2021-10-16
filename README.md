@@ -40,6 +40,18 @@ Any positive integer
 
 Invoking the script with no or less arguments will run testmod().
 
+## Examples
+
+The following code block shows examples of calling the emirpPrimeCheck script from terminal.
+
+```bash
+$ python3 emirpPrimeCheck.py 100
+It is not an Emirp
+$ python3 emirpPrimeCheck.py 311
+It is an Emirp!
+$ python3 emirpPrimeCheck.py 12721
+It is not an Emirp, palindromes don't count
+```
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/EmirpPrimeCheck
 [contributors-url]: https://github.com/StokicDusan/EmirpPrimeCheck/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/StokicDusan/EmirpPrimeCheck?style=social
