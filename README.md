@@ -52,6 +52,13 @@ It is an Emirp!
 $ python3 emirpPrimeCheck.py 12721
 It is not an Emirp, palindromes don't count
 ```
+
+## Provide Feedback 👍
+
+If you encounter any bugs or have suggestions, please file an issue in the
+[Issues][issues-url]
+section of the project.
+
 [contributors-shield]: https://img.shields.io/github/contributors/StokicDusan/EmirpPrimeCheck
 [contributors-url]: https://github.com/StokicDusan/EmirpPrimeCheck/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/StokicDusan/EmirpPrimeCheck?style=social
